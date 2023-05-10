@@ -16,7 +16,7 @@ app.use(express.json());
 
 //Step 1: Extract Cookie
 
-app.use((req, res) => {
+app.use("/", (req, res) => {
   const raw_cookie = req.headers.cookie;
   //Step 2: Convert Cookies into Useable Json
   const cookies = req.headers.cookie.split("; ");
