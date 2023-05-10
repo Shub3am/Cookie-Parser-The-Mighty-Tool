@@ -8,3 +8,5 @@ As you may have guessed, most of the repositories on my impressive GitHub accoun
 Enough Sarcasm?? I guess so!!
 
 ### This Project is open for all, Feel Free to Contribute Your Magic
+
+#### You can use cookie_middleware file which is reusable middleware that you can use in your projects!
